@@ -1,0 +1,8 @@
+C:\Users\dodosez\source\repos\CaseStudy\Core\bin\Debug\netcoreapp3.1\Core.deps.json
+C:\Users\dodosez\source\repos\CaseStudy\Core\bin\Debug\netcoreapp3.1\Core.dll
+C:\Users\dodosez\source\repos\CaseStudy\Core\bin\Debug\netcoreapp3.1\Core.pdb
+C:\Users\dodosez\source\repos\CaseStudy\Core\obj\Debug\netcoreapp3.1\Core.AssemblyInfoInputs.cache
+C:\Users\dodosez\source\repos\CaseStudy\Core\obj\Debug\netcoreapp3.1\Core.AssemblyInfo.cs
+C:\Users\dodosez\source\repos\CaseStudy\Core\obj\Debug\netcoreapp3.1\Core.csproj.CoreCompileInputs.cache
+C:\Users\dodosez\source\repos\CaseStudy\Core\obj\Debug\netcoreapp3.1\Core.dll
+C:\Users\dodosez\source\repos\CaseStudy\Core\obj\Debug\netcoreapp3.1\Core.pdb
