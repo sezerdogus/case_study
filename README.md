@@ -9,7 +9,7 @@ Doğuş Sezer
 
 ## Source
 
-GitHub [link](https://pip.pypa.io/en/stable/)
+GitHub [link](https://github.com/sezerdogus/case_study)
 
 ## UML Diagram
 
